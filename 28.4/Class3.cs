@@ -8,7 +8,7 @@ namespace _28._4
 {
     internal class Libro:Documento
     {
-        public string numerodipagine;
+        public string Numerodipagine;
         
 
     }

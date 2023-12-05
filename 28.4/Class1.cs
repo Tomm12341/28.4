@@ -13,7 +13,7 @@ namespace _28._4
         public string Nome;
         public string Cognome;
         public string Mail; 
-        public string password; 
-        public string numeroditelefono;
+        public string Password; 
+        public string Numeroditelefono;
     }
 }
